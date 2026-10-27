@@ -1,0 +1,6 @@
+{
+  "name": "SIMPERPUS - Sistem Perpustakaan & Denda Terpadu",
+  "description": "Sistem Informasi Manajemen Perpustakaan dengan integrasi peminjaman, pengembalian, monitoring stok buku, notifikasi otomatis WhatsApp/Email, dan kalkulasi denda keterlambatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
